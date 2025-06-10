@@ -9,7 +9,7 @@ This repository demonstrates a full pipeline for generating realistic fluid simu
 - Video Output: The final results are rendered as a video to showcase the complete process.
 
 ## Video  
-<video src="video.mp4" controls width="800"></video>
+<video src="output.mp4" controls width="800"></video>
 
 ## Examples  
 Each stage of the pipeline includes step-by-step instructions and sample assets:
